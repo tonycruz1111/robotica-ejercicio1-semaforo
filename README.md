@@ -1,6 +1,6 @@
 # EJERCICIO 3 — SENSOR DE TEMPERATURA Y LEDs
 
-**Nombre del estudiante:** Tony Joshua Cruz Portillo
+**Nombre del estudiante:** Felix Aviles
 **Grado:** 2 año
 **Sección:** A
 **Fecha:** 25 de agosto de 2026
